@@ -13,6 +13,7 @@
 		A792194019CD022C009311C8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A792193F19CD022C009311C8 /* Images.xcassets */; };
 		A792194319CD022C009311C8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A792194119CD022C009311C8 /* LaunchScreen.xib */; };
 		A792194F19CD022C009311C8 /* What_s_the_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A792194E19CD022C009311C8 /* What_s_the_WeatherTests.swift */; };
+		A792195919CD02E0009311C8 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = A792195819CD02E0009311C8 /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A792194819CD022C009311C8 /* What's the WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "What's the WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A792194D19CD022C009311C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A792194E19CD022C009311C8 /* What_s_the_WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = What_s_the_WeatherTests.swift; sourceTree = "<group>"; };
+		A792195819CD02E0009311C8 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		A792193519CD022C009311C8 /* What's the Weather */ = {
 			isa = PBXGroup;
 			children = (
+				A792195819CD02E0009311C8 /* background.png */,
 				A792193819CD022C009311C8 /* AppDelegate.swift */,
 				A792193A19CD022C009311C8 /* ViewController.swift */,
 				A792193C19CD022C009311C8 /* Main.storyboard */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A792193E19CD022C009311C8 /* Main.storyboard in Resources */,
+				A792195919CD02E0009311C8 /* background.png in Resources */,
 				A792194319CD022C009311C8 /* LaunchScreen.xib in Resources */,
 				A792194019CD022C009311C8 /* Images.xcassets in Resources */,
 			);
